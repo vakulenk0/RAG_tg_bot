@@ -7,3 +7,14 @@
 + **/delete_all_files** - удаление всех отправленных пользователем документов
 + **/check_texts** - позволяет посмотреть сколько файлов успешно прошли обработку
 
+
+<br>
+
+<div>
+    <div>
+        <img src="screenshots/example1.png" alt="Image upload error">
+    </div>
+    <div>
+        <img src="screenshots/example2.png" alt="Image upload error">
+    </div>
+</div>
